@@ -1,5 +1,7 @@
 # AML-GVHD Prediction Model
 
+Team members: Christina, Jasmine, Karina, Shreya
+
 Machine learning models to predict Graft-versus-Host Disease (GVHD) and survival outcomes in high-risk Acute Myeloid Leukemia (AML) patients post-hematopoietic stem cell transplantation (HSCT).
 
 ---
@@ -126,6 +128,3 @@ Top 10 negative feature importances:
  PLT ( Minimum blood count for the second course of treatment ) , Score: -0.00406
  HGB ( The fifth course of decitabine treatment ) , Score: -0.00631
 ```
-
-## Team
-Christina, Jasmine, Karina, Shreya
