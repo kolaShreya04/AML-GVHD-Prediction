@@ -128,4 +128,4 @@ Top 10 negative feature importances:
 ```
 
 ## Team
-Christina, Karina, Paola, Shreya
+Christina, Jasmine, Karina, Shreya
