@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data files (large or sensitive)
+*.xlsx
+*.csv
+*.xls
+
+# Model files (trained models - large)
+*.pickle
+*.pkl
+models/
+!models/.gitkeep  # Keep the models folder but not its contents
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.env
+
+# PyTorch models
+*.pt
+*.pth
+
+# Matplotlib plots
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Backup files
+*.bak
+*.old
